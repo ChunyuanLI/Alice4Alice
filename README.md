@@ -13,7 +13,7 @@ For 52 images (21 alice image and 31 rabbit images) in each domain (cartoon and 
 
 ### Results on sample correspondence
 
-ALICE (Explicit)  | ![](/plot_generation/figures_alice/cartoon_alice_exp_200.png	) 
+ALICE (*Explicit variant*)  | ![](/plot_generation/figures_alice/cartoon_alice_exp_200.png	) 
 :-------------------------:|:-------------------------:
 CycleGAN         |  ![](/plot_generation/figures_alice/cartoon_cyclegan_200.png)
 
