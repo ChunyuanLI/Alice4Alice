@@ -48,3 +48,17 @@ Cat (remotely related to the training set)
       For example: https://github.com/ppwwyyxx/tensorpack/tree/master/examples/HED
 
 Our development is largely based on the code (greatly appreciated!): https://github.com/xhujoy/CycleGAN-tensorflow
+
+
+## Citation
+If you use this code for your research, please cite our [paper](https://arxiv.org/abs/1709.01215):
+
+```
+@article{li2017alice,
+  title={ALICE: Towards Understanding Adversarial Learning for Joint Distribution Matching},
+  author={Li, Chunyuan and Liu, Hao and Chen, Changyou and Pu, Yunchen and Chen, Liqun and Henao, Ricardo and Carin, Lawrence},
+  journal={Neural Information Processing Systems (NIPS)},
+  year={2017}
+}
+```
+
