@@ -2,11 +2,13 @@
 ALICE algorithms for painting the cartoon "Alice's Adventures in Wonderland"
 
 
-ALICE (Explicit variant)  | ![](/plot_generation/figures_alice/cartoon_alice_exp_200.png	) 
+ALICE (Explicit)  | ![](/plot_generation/figures_alice/cartoon_alice_exp_200.png	) 
 :-------------------------:|:-------------------------:
 CycleGAN         |  ![](/plot_generation/figures_alice/cartoon_cyclegan_200.png)
 
+
 As references:
+
 Real Cartoon  | ![](/plot_generation/figures_alice/cartoon_real.png) 
 :-------------------------:|:-------------------------:
 Edges         |  ![](/plot_generation/figures_alice/edges_out3_real.png)
