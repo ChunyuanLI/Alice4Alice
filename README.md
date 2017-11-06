@@ -34,8 +34,6 @@ Cat (remotely related to the training set)
  ![](/plot_generation/figures_alice/cartoon_cmp_10.png) 
 
 
-This is largely based on the code (greatly appreciated!): https://github.com/xhujoy/CycleGAN-tensorflow
-
 Creat a dataset with two domains:
   1. Convert video to images. 
 
@@ -45,3 +43,4 @@ Creat a dataset with two domains:
   
       For example: https://github.com/ppwwyyxx/tensorpack/tree/master/examples/HED
 
+Our development is largely based on the code (greatly appreciated!): https://github.com/xhujoy/CycleGAN-tensorflow
