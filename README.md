@@ -15,6 +15,18 @@ Edges         |  ![](/plot_generation/figures_alice/edges_out3_real.png)
 
 
 
+Detailed Comparison:
+
+Rabbit
+ ![](/plot_generation/figures_alice/cartoon_cmp_136.png) 
+ 
+Alice 
+ ![](/plot_generation/figures_alice/cartoon_cmp_100.png) 
+ 
+Cat (remotely reated to training set) 
+ ![](/plot_generation/figures_alice/cartoon_cmp_10.png) 
+
+
 This is largely based on the code: https://github.com/xhujoy/CycleGAN-tensorflow
 
 Creat a dataset with two domains:
