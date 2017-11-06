@@ -7,6 +7,8 @@ _*ALICE*_ algorithms _*for*_ painting the cartoon ["_*Alice*_'s Adventures in Wo
 If interested, please check out the [main code repo](https://github.com/ChunyuanLI/ALICE) for our NIPS 2017 paper [ALICE](https://arxiv.org/abs/1709.01215): 
 
 
+![](/plot_generation/figures_alice/alice_movie.gif	) 
+
 ## Experiments
 
 For 52 images (21 alice image and 31 rabbit images) in each domain (cartoon and edge), we provide 1 pairwise correspondence for each character, which significantly improves the generation quality.
