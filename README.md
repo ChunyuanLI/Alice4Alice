@@ -20,9 +20,9 @@ CycleGAN         |  ![](/plot_generation/figures_alice/cartoon_cyclegan_200.png)
 
 As references:
 
-Real Cartoon  | ![](/plot_generation/figures_alice/cartoon_real.png) 
+Real Cartoon (Groundtruth)  | ![](/plot_generation/figures_alice/cartoon_real.png) 
 :-------------------------:|:-------------------------:
-Edges (Conditioned) |  ![](/plot_generation/figures_alice/edges_out3_real.png)
+Edges (Input) |  ![](/plot_generation/figures_alice/edges_out3_real.png)
 
 
 
