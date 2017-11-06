@@ -8,6 +8,7 @@ If interested, please check out the [main code repo](https://github.com/Chunyuan
 
 
 ![](/plot_generation/figures_alice/alice_movie.gif	) 
+*Note: These are results based on noisy edge inputs*
 
 ## Experiments
 
