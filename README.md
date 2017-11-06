@@ -30,11 +30,11 @@ Rabbit
 Alice 
  ![](/plot_generation/figures_alice/cartoon_cmp_100.png) 
  
-Cat (remotely reated to training set) 
+Cat (remotely related to the training set) 
  ![](/plot_generation/figures_alice/cartoon_cmp_10.png) 
 
 
-This is largely based on the code: https://github.com/xhujoy/CycleGAN-tensorflow
+This is largely based on the code (greatly appreciated!): https://github.com/xhujoy/CycleGAN-tensorflow
 
 Creat a dataset with two domains:
   1. Convert video to images. 
