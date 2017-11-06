@@ -50,6 +50,7 @@ The scripts to train and test with various algorithms are in [`alice_tesorflow/s
   1. Convert video to images. 
   
       For example: https://image.online-convert.com/convert-to-jpg 
+      
       You might be ineterested in youtube video: https://keepvid.com/sites/download-youtube-video.html
     
   2. Resize your images, and extract edges from the images. 
