@@ -7,7 +7,11 @@ ALICE algorithms for painting the cartoon ["Alice's Adventures in Wonderland"](h
 If interested, please check out the [main code repo](https://arxiv.org/abs/1709.01215) for our NIPS paper [ALICE](https://github.com/ChunyuanLI/ALICE): 
 
 
-*Experiments*: For 52 images (21 alice image and 31 rabbit images) in each domain (cartoon and edge), we provide 1 pairwise correspondence for each character, which significantly improves the generation quality.
+## Experiments: 
+
+For 52 images (21 alice image and 31 rabbit images) in each domain (cartoon and edge), we provide 1 pairwise correspondence for each character, which significantly improves the generation quality.
+
+### Sample correspondence
 
 ALICE (Explicit)  | ![](/plot_generation/figures_alice/cartoon_alice_exp_200.png	) 
 :-------------------------:|:-------------------------:
@@ -18,11 +22,11 @@ As references:
 
 Real Cartoon  | ![](/plot_generation/figures_alice/cartoon_real.png) 
 :-------------------------:|:-------------------------:
-Edges         |  ![](/plot_generation/figures_alice/edges_out3_real.png)
+Edges (Conditioned) |  ![](/plot_generation/figures_alice/edges_out3_real.png)
 
 
 
-Detailed Comparison:
+### Detailed Comparison:
 
 Rabbit
  ![](/plot_generation/figures_alice/cartoon_cmp_136.png) 
@@ -34,7 +38,7 @@ Cat (remotely related to the training set)
  ![](/plot_generation/figures_alice/cartoon_cmp_10.png) 
 
 
-Creat a dataset with two domains:
+## Creat a dataset with two domains:
   1. Convert video to images. 
 
       For example: https://image.online-convert.com/convert-to-jpg 
