@@ -4,7 +4,7 @@ ALICE algorithms for painting the cartoon ["Alice's Adventures in Wonderland"](h
 
 **Ideas: Leveraging weakly-supervised information can significantly alleviate the non-identifiablility issues of CycleGAN/DiscoGAN/DualGAN in image-to-image translation.**
 
-If interested, please check out the [main code repo](https://arxiv.org/abs/1709.01215) for our NIPS 2017 paper [ALICE](https://github.com/ChunyuanLI/ALICE): 
+If interested, please check out the [main code repo](https://github.com/ChunyuanLI/ALICE) for our NIPS 2017 paper [ALICE](https://arxiv.org/abs/1709.01215): 
 
 
 ## Experiments
