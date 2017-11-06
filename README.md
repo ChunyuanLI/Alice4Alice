@@ -7,11 +7,11 @@ ALICE algorithms for painting the cartoon ["Alice's Adventures in Wonderland"](h
 If interested, please check out the [main code repo](https://arxiv.org/abs/1709.01215) for our NIPS paper [ALICE](https://github.com/ChunyuanLI/ALICE): 
 
 
-## Experiments: 
+## Experiments
 
 For 52 images (21 alice image and 31 rabbit images) in each domain (cartoon and edge), we provide 1 pairwise correspondence for each character, which significantly improves the generation quality.
 
-### Sample correspondence
+### Results on sample correspondence
 
 ALICE (Explicit)  | ![](/plot_generation/figures_alice/cartoon_alice_exp_200.png	) 
 :-------------------------:|:-------------------------:
