@@ -1,5 +1,5 @@
 # Alice4Alice
-*ALICE* algorithms *for* painting the cartoon ["*Alice*'s Adventures in Wonderland"](https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland)
+__*ALICE*__ algorithms __*for*__ painting the cartoon ["__*Alice*__'s Adventures in Wonderland"](https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland)
 
 
 **Ideas: Leveraging weakly-supervised information can significantly alleviate the non-identifiablility issues of CycleGAN/DiscoGAN/DualGAN in image-to-image translation.**
