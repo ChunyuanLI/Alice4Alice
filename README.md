@@ -1,5 +1,5 @@
 # Alice4Alice
-ALICE algorithms for painting the cartoon "Alice's Adventures in Wonderland"
+ALICE algorithms for painting the cartoon ["Alice's Adventures in Wonderland"](https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland)
 
 
 ALICE (Explicit)  | ![](/plot_generation/figures_alice/cartoon_alice_exp_200.png	) 
