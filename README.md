@@ -59,6 +59,7 @@ The scripts to train and test with various algorithms are in [`alice_tesorflow/s
 
 Our development is largely based on the code (greatly appreciated!): https://github.com/xhujoy/CycleGAN-tensorflow
 
+Note: the links are only for academic use, please ask the providers for commercial purposes. 
 
 ## Citation
 If you use this code for your research, please cite our [paper](https://arxiv.org/abs/1709.01215):
