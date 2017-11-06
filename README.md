@@ -38,7 +38,15 @@ Cat (remotely related to the training set)
  ![](/plot_generation/figures_alice/cartoon_cmp_10.png) 
 
 
-## Creat a dataset with two domains:
+## How to use
+
+The scripts to train and test with various algorithms are in 'alice_tesorflow/script.sh'. For example, train with explicit ALICE:
+
+  $ CUDA_VISIBLE_DEVICES=0 python main.py --checkpoint_dir ./alice_exp_checkpoint --sample_dir=./alice_exp_sample --test_dir=./alice_exp_test_dir --L1_lambda_sup 10.0 --cgan_lambda 0.0
+
+
+
+## Creat a dataset with two domains
   1. Convert video to images. 
 
       For example: https://image.online-convert.com/convert-to-jpg 
