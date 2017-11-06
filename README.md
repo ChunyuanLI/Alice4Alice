@@ -2,9 +2,9 @@
 ALICE algorithms for painting the cartoon ["Alice's Adventures in Wonderland"](https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland)
 
 
-Ideas: Weakly-supervised information can alleviate the non-identifiablility issues of CycleGAN/DiscoGAN/DualGAN for image-to-image translation.
+**Ideas: Weakly-supervised information can alleviate the non-identifiablility issues of CycleGAN/DiscoGAN/DualGAN for image-to-image translation.**
 
-Experiments: For 52 images (21 alice image and 31 rabbit images) in each domain (cartoon and edge), we provide 1 pairwise correspondence for each character, which significantly improves the generation quality.
+*Experiments*: For 52 images (21 alice image and 31 rabbit images) in each domain (cartoon and edge), we provide 1 pairwise correspondence for each character, which significantly improves the generation quality.
 
 ALICE (Explicit)  | ![](/plot_generation/figures_alice/cartoon_alice_exp_200.png	) 
 :-------------------------:|:-------------------------:
