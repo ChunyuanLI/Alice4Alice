@@ -1,2 +1,3 @@
 ./alice_tensorflow/alice_exp_checkpoint/
-./plot_generation/figures_alice//.ipynb_checkpoints
+./plot_generation/figures_alice/.ipynb_checkpoints
+./plot_generation/figures_alice/.DS_Store
